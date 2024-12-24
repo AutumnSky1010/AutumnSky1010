@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=AutumnSky1010" />
-</div>
-
 ## 活動内容
 - 個人開発がメイン
 - SoundMakerというOSSを開発中
